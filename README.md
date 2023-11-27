@@ -30,5 +30,6 @@ to create a data integration package that automates the data extraction process 
 
 ![Business_Process 1](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/ca4eeda6-b13a-4eb1-8cf7-8c63a0c9c9ef)   <br>
 
+## High level architecture diagram:
 
 
