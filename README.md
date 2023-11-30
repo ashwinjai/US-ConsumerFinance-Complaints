@@ -1,4 +1,4 @@
-
+ 
 ## Project Overview:
 The "US Consumer Finance Complaints Analysis" project aims to analyze and gain insights from the Consumer Financial Protection Bureau (CFPB) complaint. The Project is built using
 SQL Server integration Services (SSIS)to extract, transform, and load (ETL) the data from CFPB database stored SQL Server Management Studio (SSMS). Additionally, SSIS is utilized 
