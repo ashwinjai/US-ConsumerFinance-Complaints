@@ -66,6 +66,9 @@ Consequently, the relationships between attributes in Power BI are set to be sin
 
 ## Power BI Dashboard
 
+![Dashboard_Pic](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/50d75781-978f-428c-86ab-b824b7cefaac)
+
+
 ![ezgif com-optimize](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a)
 
 
