@@ -32,9 +32,13 @@ to create a data integration package that automates the data extraction process 
 
 ## High level architecture diagram:
 
+## Data Ingestion: 
+In this Phase, Connection is established to connect to the CFPB database in SQL Server and retrieve the US consumer finance complaints data, which includes information on the types of complaints, financial products, 
+companies involved, timestamps, Issue faced and Company Response (Consumer, Public). <br>
+
 
 ## Data Transformation & Preprocessing:
-An SSIS Package is architected to encompass a collection of tasks that facilitate the processing and enhancement of data originating from a SQL Server database. 
+In the Next Phase, An SSIS Package is architected to encompass a collection of tasks that facilitate the processing and enhancement of data originating from a SQL Server database. 
 The primary component, the Data Flow Task, is created to establish robust data pipelines for efficient data retrieval.In continuation, a Data Profiling Task is utilized to thoroughly assess 
 the data quality and its suitability for analysis. Once the data profiling is complete, an Execute SQL Task is implemented to execute various SQL scripts. 
 These scripts perform sorting, transformation, and manipulation of the data, leading to a notable improvement in its overall quality, ultimately preparing it for insightful analysis.
@@ -45,17 +49,15 @@ that the data undergoes a comprehensive process of processing, refinement, and p
 
 ![SSIS_2](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/225eba4c-c466-4618-8dfc-218bab3727ad)
 
-## Data Ingestion: 
-Connect to the CFPB database in SQL Server and retrieve the US consumer finance complaints data, which includes information on the types of complaints, financial products, 
-companies involved, timestamps, Issue faced and Company Response (Consumer, Public). <br>
-![Powebi_connection1](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/25a08a31-f0b3-400b-9be4-faf1e6798930)
 
-## Data Transformation & Preprocessing
-In this phase, data cleansing and preprocessing tasks are executed to effectively handle missing values, eradicate duplicates, eliminate irrelevant columns, and restructure the data format.
+## Power Query Editor
+In this phase, Connection is established to SQL Server Database and retrive the data in Power BI. By Using the Query Editor,data cleansing and preprocessing tasks are executed to effectively handle missing values, eradicate duplicates, eliminate irrelevant columns, and restructure the data format.
 Power Query within Power BI is leveraged to perform column format transformations and create a multi-table structure, designed to suit dimension and fact tables through the utilization of Merge and Append Queries. 
 Additionally, an index column is introduced in all tables to establish essential relationships between them. 
 Furthermore, to generate measures and conduct table calculations, certain Aggregate and Scalar DAX queries are utilized. These measures and calculations contribute to enhancing the overall quality of the data and 
 prepare it for insightful data analysis and reporting. <br>
+
+![Powebi_connection1](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/25a08a31-f0b3-400b-9be4-faf1e6798930)
 
 ## Data Modeling
 In the data modeling phase, the implementation of the Star Schema model is adopted, wherein a central facts table is designed along with multiple dimension tables. 
