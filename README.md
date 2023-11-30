@@ -62,15 +62,19 @@ In the data modeling phase, the implementation of the Star Schema model is adopt
 During this process, some dimensions are normalized while adhering to cardinality rules. To achieve this, attributes with one-to-many relationships are split, establishing hierarchies within the Power BI Data Model components. 
 Consequently, the relationships between attributes in Power BI are set to be single-directional, ensuring an organized and efficient data model structure. <br>
 
-![PowerBI_DataModel](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/9fa0e571-d1e8-4a19-9b95-ccab107ef608)
+![PowerBI_DataModel](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/9fa0e571-d1e8-4a19-9b95-ccab107ef608) <br>
 
 ## Power BI Dashboard
 
-![Dashboard_Pic](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/26209845-2fbe-4551-ac60-4d0b60870926)
+![Dashboard_Pic](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/26209845-2fbe-4551-ac60-4d0b60870926) <br>
 
 
 
-![ezgif com-optimize](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a)
+
+
+
+
+![ezgif com-optimize](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a) <br>
 
 
 
