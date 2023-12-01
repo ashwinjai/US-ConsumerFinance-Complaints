@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "US_Consumer_Financial_Complaint", "US_Consumer_Financial_Complaint.dtproj", "{867ED542-2825-4230-A5AC-DC5B48413BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867ED542-2825-4230-A5AC-DC5B48413BAD}.Development|Default.ActiveCfg = Development
+		{867ED542-2825-4230-A5AC-DC5B48413BAD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3AE86F0-A04C-4BF0-9526-6413B64788B6}
+	EndGlobalSection
+EndGlobal
