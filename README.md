@@ -45,7 +45,7 @@ Consequently, the relationships between attributes in Power BI are set to be sin
 
 ![Dashboard_Pic](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/26209845-2fbe-4551-ac60-4d0b60870926) <br>
 
-![ezgif com-optimize](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a) <br>
+!(https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a) <br>
 
 ## Key Metrics
 
