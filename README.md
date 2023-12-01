@@ -47,6 +47,16 @@ Consequently, the relationships between attributes in Power BI are set to be sin
 
 ![ezgif com-optimize](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/161fd889-3407-40c1-9706-a5b4ce4d212a) <br>
 
+## Key Metrics
+
+**Total logged Complaint** :    <br>
+**Average Resolution Days** :   <br>
+**Delayed Response** :          <br>
+**Disputed Complaints** :        <br>
+**Timely Responded** :           <br>
+**Company Consumer Response** :     <br>
+**Company's Public Response** :       <br>
+**Complainant Issue** :                   <br>
 ## Business Process Description
 :black_medium_small_square: **Identify the Issue** : refers to the crucial step of comprehensively recognizing and understanding the specific financial problem or challenge at hand. This involves a detailed examination of the circumstances surrounding the issue to gain clarity on its nature, scope, and potential impact <br>
 :black_medium_small_square: **Submission of Details** : The Complainant needs submit all relevant details pertaining to your complaint, providing accurate and comprehensive information. <br>
