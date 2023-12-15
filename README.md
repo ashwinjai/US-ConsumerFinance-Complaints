@@ -29,7 +29,7 @@ that the data undergoes a comprehensive process of processing, refinement, and p
 ![SSIS_2](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/225eba4c-c466-4618-8dfc-218bab3727ad)
 
 
-## Power Query Editor
+## Power Query Editor:
 In this phase, Connection is established to SQL Server Database and retrive the data in Power BI. By Using the Query Editor,data cleansing and preprocessing tasks are executed to effectively handle missing values, eradicate duplicates, eliminate irrelevant columns, and restructure the data format.
 Power Query within Power BI is leveraged to perform column format transformations and create a multi-table structure, designed to suit dimension and fact tables through the utilization of Merge and Append Queries. 
 Additionally, an index column is introduced in all tables to establish essential relationships between them. 
@@ -38,14 +38,14 @@ prepare it for insightful data analysis and reporting. <br>
 
 ![Powebi_connection1](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/25a08a31-f0b3-400b-9be4-faf1e6798930)
 
-## Data Modeling
+## Data Modeling:
 In the data modeling phase, the implementation of the Star Schema model is adopted, wherein a central facts table is designed along with multiple dimension tables. 
 During this process, some dimensions are normalized while adhering to cardinality rules. To achieve this, attributes with one-to-many relationships are split, establishing hierarchies within the Power BI Data Model components. 
 Consequently, the relationships between attributes in Power BI are set to be single-directional, ensuring an organized and efficient data model structure. <br>
 
 ![PowerBI_DataModel](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/9fa0e571-d1e8-4a19-9b95-ccab107ef608) <br>
 
-## Power BI Dashboard
+## Power BI Dashboard:
 
 ![Dashboard_Pic](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/26209845-2fbe-4551-ac60-4d0b60870926) <br>
 
@@ -53,7 +53,7 @@ Consequently, the relationships between attributes in Power BI are set to be sin
 
 
 
-## Key Metrics
+## Key Metrics:
 
 **1.Total Complaints, Average Resolution Days, Delayed Response, Disputed Complaint, Timely Responded** 
 
@@ -91,15 +91,7 @@ The most frequently reported types of complaints were related to loan modificati
 ![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/0d9829b9-87b7-443e-82df-f0acdc4ee158)
 
 
-
-
-
-
-
-
-
-
-## Business Process Description
+## Business Process Description:
 :black_medium_small_square: **Identify the Issue** : refers to the crucial step of comprehensively recognizing and understanding the specific financial problem or challenge at hand. This involves a detailed examination of the circumstances surrounding the issue to gain clarity on its nature, scope, and potential impact <br>
 :black_medium_small_square: **Submission of Details** : The Complainant needs submit all relevant details pertaining to your complaint, providing accurate and comprehensive information. <br>
 :black_medium_small_square: **Contact the Financial Institution** : Reach out to the financial institution's customer support. <br>
