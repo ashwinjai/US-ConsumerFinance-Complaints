@@ -55,14 +55,50 @@ Consequently, the relationships between attributes in Power BI are set to be sin
 
 ## Key Metrics
 
-**Total logged Complaint** :    <br>
-**Average Resolution Days** :   <br>
-**Delayed Response** :          <br>
-**Disputed Complaints** :        <br>
-**Timely Responded** :           <br>
-**Company Consumer Response** :     <br>
-**Company's Public Response** :       <br>
-**Complainant Issue** :                   <br>
+**1.Total Complaints, Average Resolution Days, Delayed Response, Disputed Complaint, Timely Responded** 
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/70fd9822-48f6-460d-a7b6-09282ff75433)
+
+A total of 556,000 complaints have been filed overall. The average time taken to resolve these complaints is 10 days. There were 14,000 instances of delayed responses. Complaints that were disputed amounted to 112,000, while 542,000 complaints received timely responses. <br>
+
+**2.Complaint Lodge mode**
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/fe36c903-baf3-4098-af8d-e4847a8b998c)
+
+Maximum number of complaint was filed via Web (65%), Referral (20%), Postal mail (7%) and Fax (1%). <br>
+ 
+
+**3.Yearly Complaint Volume**
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/c4cfea31-0f8f-4e24-8ae7-b253f5f399f6)
+
+The data indicates that the highest number of complaints was recorded between 2014 and 2016. The trend of complaints showed an upward trajectory from 2012 to 2015. However, starting from 2015, there is a noticeable decline in the volume of complaints, dropping from 66,000 to 23,000. <br>
+
+**4.Company's Consumer Response**
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/b2a0f967-92d7-4b0a-9d87-e473ff7dfda8)
+
+The information is presented in a horizontal bar graph. The graph shows that the majority of complaints were resolved with an explanation, indicating that the issue was addressed by the executive in a respectful manner. Specifically, 70,000 complaints were closed without providing any financial compensation, while 38,000 complaints were resolved with relief provided to the complainant.<br>
+
+**5.Complainant Issue**
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/141e1244-6ea3-4c0f-88d2-4c9fde998e84)
+
+The most frequently reported types of complaints were related to loan modification and collection, incorrect information on credit reports, loan servicing payments, persistent attempts to collect debts not owed, and issues with account opening and closing. <br>
+
+**6.Company's Pubic Response**
+
+![image](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/0d9829b9-87b7-443e-82df-f0acdc4ee158)
+
+
+
+
+
+
+
+
+
+
 ## Business Process Description
 :black_medium_small_square: **Identify the Issue** : refers to the crucial step of comprehensively recognizing and understanding the specific financial problem or challenge at hand. This involves a detailed examination of the circumstances surrounding the issue to gain clarity on its nature, scope, and potential impact <br>
 :black_medium_small_square: **Submission of Details** : The Complainant needs submit all relevant details pertaining to your complaint, providing accurate and comprehensive information. <br>
