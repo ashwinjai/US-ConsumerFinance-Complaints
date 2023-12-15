@@ -8,6 +8,9 @@ to create a data integration package that automates the data extraction process 
 
 ## High level architecture diagram:
 
+![Highlevel](https://github.com/ashwinjai/US-ConsumerFinance-Complaints/assets/36980518/da7addf3-afe8-4ca2-96b6-266e51e67825)
+
+
 ## Data Ingestion: 
 In this Phase, Connection is established to connect to the CFPB database in SQL Server and retrieve the US consumer finance complaints data, which includes information on the types of complaints, financial products, 
 companies involved, timestamps, Issue faced and Company Response (Consumer, Public). <br>
